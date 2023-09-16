@@ -7,3 +7,9 @@
 4. [HTTP&HTTPS](https://github.com/chae401/chae_study/blob/main/Network/http%26https.md)
 5. [DNS](https://github.com/chae401/chae_study/blob/main/Network/dns.md)
 6. [Hosting](https://github.com/chae401/chae_study/blob/main/Network/hosting.md)
+
+### 🐕‍🦺Operating System
+
+### 🐩Object Orient Programming
+
+### 🐕Data structure & Algorithm
