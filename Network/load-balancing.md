@@ -70,3 +70,6 @@ Client가 수천만명일 경우 하나의 Server가 모든 사람들의 응답�
 3. 여분의 Load Balancer로 운영
 
 ![LoadBalancer](https://github.com/chae401/chae_study/assets/83829352/d60a4098-9754-4d6f-b428-9022dad724b4)
+
+
+[참고자료](https://nesoy.github.io/articles/2018-06/Load-Balancer)
