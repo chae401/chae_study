@@ -7,6 +7,7 @@
 4. [HTTP&HTTPS](https://github.com/chae401/chae_study/blob/main/Network/http%26https.md)
 5. [DNS](https://github.com/chae401/chae_study/blob/main/Network/dns.md)
 6. [Hosting](https://github.com/chae401/chae_study/blob/main/Network/hosting.md)
+7. [Load Balancing](https://github.com/chae401/chae_study/blob/main/Network/load-balancing.md)
 
 ### 🐕‍🦺Operating System
 
